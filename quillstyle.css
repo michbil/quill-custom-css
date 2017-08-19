@@ -4,8 +4,19 @@
   line-height: 20pt;
   padding-bottom:16pt;
 }
-.ql-editor .ql-size-large .ql-size-huge {
-  font-size: 1.5em;
+.ql-size-large  {
+  font-size: 22pt !important;
+  font-weight: bold;
+  line-height: 28pt;
   color: #5f2d74;
+  padding-bottom:12pt !important;
+}
+
+.ql-size-huge  {
+  font-size: 22pt !important;
+  font-weight: bold;
+  line-height: 28pt;
+  color: #5f2d74;
+  padding-bottom:12pt;
 }
 
