@@ -1,7 +1,11 @@
-.ql-editor {
-  font-family: "Arial"
+.ql-editor p {
+  font-family: "Arial";
+  font-size: 14pt;
+  line-height: 20pt;
+  padding-bottom:16pt;
 }
-.ql-editor .ql-size-large {
+.ql-editor .ql-size-large .ql-size-huge {
   font-size: 1.5em;
   color: #5f2d74;
 }
+
