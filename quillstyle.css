@@ -1,11 +1,13 @@
 .ql-editor p {
-  font-family: "Arial";
+  font-family: "Centrale Sans";
+  font-weight: normal;
   font-size: 14pt;
   line-height: 20pt;
   padding-bottom:16pt;
 }
 .ql-size-large  {
   font-size: 22pt !important;
+    font-family: "Centrale Sans";
   font-weight: bold;
   line-height: 28pt;
   color: #5f2d74;
@@ -14,9 +16,11 @@
 
 .ql-size-huge  {
   font-size: 22pt !important;
+  font-family: "Centrale Sans";
   font-weight: bold;
   line-height: 28pt;
   color: #5f2d74;
   padding-bottom:12pt;
 }
+
 
